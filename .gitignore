@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Vector DB
+chroma/
+chroma_db/
+vectorstore/
+
+# Node
+frontend/node_modules/
+frontend/build/
+
+# Env
+.env
