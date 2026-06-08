@@ -7,3 +7,5 @@ langchain-huggingface
 transformers
 chromadb
 sentence-transformers
+pypdf
+python-multipart
