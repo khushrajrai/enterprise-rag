@@ -6,6 +6,18 @@ This project simulates how companies can securely analyze private internal docum
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/1.png" alt="Enterprise RAG System - document upload and chat interface" width="800">
+</p>
+
+<p align="center">
+  <img src="screenshots/2.png" alt="Enterprise RAG System - answering a question with grounded financial data" width="800">
+</p>
+
+---
+
 ## 🚀 Features
 
 - 📤 **Upload your own document** — drag & drop or browse for a `.txt` or `.pdf` file directly from the UI
